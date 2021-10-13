@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MOgaUGYnK1bZeu2yrRpBtnCUpyyyvRYEDLwg1ER0YQuETQE6TB7N43tzSuTnLhKYLXX6QuLoPthTswV1nHLxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TADMIN\\source\\repos\\Lap1-master\\ASC.Utilities\\ASC.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TADMIN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.10\\microsoft.aspnetcore.http.features.5.0.10.nupkg.sha512",
+    "C:\\Users\\TADMIN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\TADMIN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\TADMIN\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
